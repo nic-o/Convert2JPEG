@@ -1,0 +1,42 @@
+body {
+  font: 12px/170% Verdana, sans-serif;
+  color: black;
+}
+
+h1 { font-size: 170%; }
+
+h2 {font-size: 160%; }
+
+h3 { font-size: 140%; }
+
+h4 { font-size: 130%; }
+
+h5 { font-size: 120%; }
+
+h6 { font-size: 110%; }
+
+pre {
+	background-color: #eeeeee;
+	border: 1px solid #cccccc;
+	padding-left: 1em;
+	padding-right: 1em;
+	white-space: pre;
+}
+
+table {
+	
+	border: 1px solid #cccccc;
+}
+
+.warning {
+	background-color: orange;
+	border: 1px solid #cccccc;
+		
+/*	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;*/
+		
+	padding-left: 1em;
+	padding-right: 1em;
+}
